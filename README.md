@@ -15,17 +15,16 @@ This is a simple desktop Task List app built using the Tkinter library in Python
 2. **Clone the Repository**: If the code is not already on your system, you can clone this repository using Git:
 
    ```bash
-   git clone <repository_url>
-   cd <repository_directory>
+   git clone https://github.com/suburban-loner/task-list.git
+   cd main
    ```
 
 3. **Run the App**: Open a terminal/command prompt, navigate to the repository directory, and run the following command:
 
    ```bash
-   python <filename>.py
+   python main.py
    ```
 
-   Replace `<filename>` with the name of the file where the code is saved.
 
 ## App Interface
 
